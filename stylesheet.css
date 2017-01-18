@@ -1,0 +1,23 @@
+.center-text {
+    text-align: center;
+}
+
+.well {
+    padding-top: 10px;
+    background: rgba(100, 100, 100, .2);
+    color: rgba(0, 0, 0, 1);
+    border: 20px rgba(0, 0, 0, 0);
+}
+
+#currentLocationContainer {
+    margin-top: 10vh;
+    color: rgba(0, 0, 0, 1);
+}
+
+body {
+    background-size: cover;
+}
+
+.btn {
+    background: rgba(100, 100, 200, .4);
+}
