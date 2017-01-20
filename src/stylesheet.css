@@ -21,3 +21,8 @@ body {
 .btn {
     background: rgba(100, 100, 200, .4);
 }
+
+#attributionContainer {
+    max-width: 33vw;
+    padding-top: 10px;
+}

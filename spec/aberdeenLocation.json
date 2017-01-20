@@ -1,0 +1,417 @@
+{
+    "results": [{
+            "address_components": [{
+                    "long_name": "19",
+                    "short_name": "19",
+                    "types": ["street_number"]
+                },
+                {
+                    "long_name": "North Anderson Drive",
+                    "short_name": "N Anderson Dr",
+                    "types": ["route"]
+                },
+                {
+                    "long_name": "Aberdeen",
+                    "short_name": "Aberdeen",
+                    "types": ["locality", "political"]
+                },
+                {
+                    "long_name": "Aberdeen",
+                    "short_name": "Aberdeen",
+                    "types": ["postal_town"]
+                },
+                {
+                    "long_name": "Aberdeen City",
+                    "short_name": "Aberdeen City",
+                    "types": ["administrative_area_level_2", "political"]
+                },
+                {
+                    "long_name": "Scotland",
+                    "short_name": "Scotland",
+                    "types": ["administrative_area_level_1", "political"]
+                },
+                {
+                    "long_name": "United Kingdom",
+                    "short_name": "GB",
+                    "types": ["country", "political"]
+                },
+                {
+                    "long_name": "AB15 6DW",
+                    "short_name": "AB15 6DW",
+                    "types": ["postal_code"]
+                }
+            ],
+            "formatted_address": "19 N Anderson Dr, Aberdeen AB15 6DW, UK",
+            "geometry": {
+                "location": {
+                    "lat": 57.1506112,
+                    "lng": -2.1493218
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 57.1519601802915,
+                        "lng": -2.147972819708498
+                    },
+                    "southwest": {
+                        "lat": 57.1492622197085,
+                        "lng": -2.150670780291502
+                    }
+                }
+            },
+            "place_id": "ChIJYyGA2L8RhEgRjOyO8FU51GU",
+            "types": ["street_address"]
+        },
+        {
+            "address_components": [{
+                    "long_name": "Aberdeen",
+                    "short_name": "Aberdeen",
+                    "types": ["locality", "political"]
+                },
+                {
+                    "long_name": "Aberdeen City",
+                    "short_name": "Aberdeen City",
+                    "types": ["administrative_area_level_2", "political"]
+                },
+                {
+                    "long_name": "Scotland",
+                    "short_name": "Scotland",
+                    "types": ["administrative_area_level_1", "political"]
+                },
+                {
+                    "long_name": "United Kingdom",
+                    "short_name": "GB",
+                    "types": ["country", "political"]
+                }
+            ],
+            "formatted_address": "Aberdeen, UK",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 57.19565069999999,
+                        "lng": -2.0441627
+                    },
+                    "southwest": {
+                        "lat": 57.1041518,
+                        "lng": -2.2058926
+                    }
+                },
+                "location": {
+                    "lat": 57.149717,
+                    "lng": -2.094278
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 57.19565069999999,
+                        "lng": -2.0461811
+                    },
+                    "southwest": {
+                        "lat": 57.1041518,
+                        "lng": -2.2058926
+                    }
+                }
+            },
+            "place_id": "ChIJSXXXH0wFhEgRcsT0XNoFu-g",
+            "types": ["locality", "political"]
+        },
+        {
+            "address_components": [{
+                    "long_name": "AB15 6DW",
+                    "short_name": "AB15 6DW",
+                    "types": ["postal_code"]
+                },
+                {
+                    "long_name": "North Anderson Drive",
+                    "short_name": "N Anderson Dr",
+                    "types": ["route"]
+                },
+                {
+                    "long_name": "Aberdeen",
+                    "short_name": "Aberdeen",
+                    "types": ["locality", "political"]
+                },
+                {
+                    "long_name": "Aberdeen",
+                    "short_name": "Aberdeen",
+                    "types": ["postal_town"]
+                },
+                {
+                    "long_name": "Aberdeen City",
+                    "short_name": "Aberdeen City",
+                    "types": ["administrative_area_level_2", "political"]
+                },
+                {
+                    "long_name": "Scotland",
+                    "short_name": "Scotland",
+                    "types": ["administrative_area_level_1", "political"]
+                },
+                {
+                    "long_name": "United Kingdom",
+                    "short_name": "GB",
+                    "types": ["country", "political"]
+                }
+            ],
+            "formatted_address": "N Anderson Dr, Aberdeen AB15 6DW, UK",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 57.1509498,
+                        "lng": -2.1493374
+                    },
+                    "southwest": {
+                        "lat": 57.1497481,
+                        "lng": -2.1514834
+                    }
+                },
+                "location": {
+                    "lat": 57.1505595,
+                    "lng": -2.1501049
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 57.1516979302915,
+                        "lng": -2.149061419708498
+                    },
+                    "southwest": {
+                        "lat": 57.14899996970851,
+                        "lng": -2.151759380291502
+                    }
+                }
+            },
+            "place_id": "ChIJXcoEfpURhEgRML0rY1-oLc8",
+            "types": ["postal_code"]
+        },
+        {
+            "address_components": [{
+                    "long_name": "AB15",
+                    "short_name": "AB15",
+                    "types": ["postal_code", "postal_code_prefix"]
+                },
+                {
+                    "long_name": "Aberdeen",
+                    "short_name": "Aberdeen",
+                    "types": ["postal_town"]
+                },
+                {
+                    "long_name": "Scotland",
+                    "short_name": "Scotland",
+                    "types": ["administrative_area_level_1", "political"]
+                },
+                {
+                    "long_name": "United Kingdom",
+                    "short_name": "GB",
+                    "types": ["country", "political"]
+                }
+            ],
+            "formatted_address": "Aberdeen AB15, UK",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 57.1860557,
+                        "lng": -2.1217925
+                    },
+                    "southwest": {
+                        "lat": 57.0996837,
+                        "lng": -2.2916049
+                    }
+                },
+                "location": {
+                    "lat": 57.1380894,
+                    "lng": -2.2205779
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 57.1860557,
+                        "lng": -2.1217925
+                    },
+                    "southwest": {
+                        "lat": 57.0996837,
+                        "lng": -2.2916049
+                    }
+                }
+            },
+            "place_id": "ChIJ8QdfWDQQhEgRrvVZvsuj0Bc",
+            "types": ["postal_code", "postal_code_prefix"]
+        },
+        {
+            "address_components": [{
+                    "long_name": "Aberdeen City",
+                    "short_name": "Aberdeen City",
+                    "types": ["administrative_area_level_2", "political"]
+                },
+                {
+                    "long_name": "Scotland",
+                    "short_name": "Scotland",
+                    "types": ["administrative_area_level_1", "political"]
+                },
+                {
+                    "long_name": "United Kingdom",
+                    "short_name": "GB",
+                    "types": ["country", "political"]
+                }
+            ],
+            "formatted_address": "Aberdeen City, UK",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 57.2353521,
+                        "lng": -2.0161505
+                    },
+                    "southwest": {
+                        "lat": 57.07618890000001,
+                        "lng": -2.3609398
+                    }
+                },
+                "location": {
+                    "lat": 57.1495807,
+                    "lng": -2.0937632
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 57.2353521,
+                        "lng": -2.0461828
+                    },
+                    "southwest": {
+                        "lat": 57.07618890000001,
+                        "lng": -2.3609397
+                    }
+                }
+            },
+            "place_id": "ChIJs6qVe2kRhEgRkLBCBhpoDAM",
+            "types": ["administrative_area_level_2", "political"]
+        },
+        {
+            "address_components": [{
+                    "long_name": "Aberdeen",
+                    "short_name": "Aberdeen",
+                    "types": ["postal_town"]
+                },
+                {
+                    "long_name": "Scotland",
+                    "short_name": "Scotland",
+                    "types": ["administrative_area_level_1", "political"]
+                },
+                {
+                    "long_name": "United Kingdom",
+                    "short_name": "GB",
+                    "types": ["country", "political"]
+                }
+            ],
+            "formatted_address": "Aberdeen, UK",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 57.3274181,
+                        "lng": -2.0076332
+                    },
+                    "southwest": {
+                        "lat": 57.0411197,
+                        "lng": -2.3365801
+                    }
+                },
+                "location": {
+                    "lat": 57.2177758,
+                    "lng": -2.1823124
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 57.3274181,
+                        "lng": -2.0076332
+                    },
+                    "southwest": {
+                        "lat": 57.0411197,
+                        "lng": -2.3365801
+                    }
+                }
+            },
+            "place_id": "ChIJe57LATIShEgRdUZWMa_i0ag",
+            "types": ["postal_town"]
+        },
+        {
+            "address_components": [{
+                    "long_name": "Scotland",
+                    "short_name": "Scotland",
+                    "types": ["administrative_area_level_1", "political"]
+                },
+                {
+                    "long_name": "United Kingdom",
+                    "short_name": "GB",
+                    "types": ["country", "political"]
+                }
+            ],
+            "formatted_address": "Scotland, UK",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 60.8607515,
+                        "lng": -0.7246751
+                    },
+                    "southwest": {
+                        "lat": 54.6332381,
+                        "lng": -8.650007199999999
+                    }
+                },
+                "location": {
+                    "lat": 56.49067119999999,
+                    "lng": -4.2026458
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 60.85601749999999,
+                        "lng": -0.7247473999999999
+                    },
+                    "southwest": {
+                        "lat": 54.6332381,
+                        "lng": -8.6480575
+                    }
+                }
+            },
+            "place_id": "ChIJn6HyA8TiYUgRFAfDCdj6wec",
+            "types": ["administrative_area_level_1", "political"]
+        },
+        {
+            "address_components": [{
+                "long_name": "United Kingdom",
+                "short_name": "GB",
+                "types": ["country", "political"]
+            }],
+            "formatted_address": "United Kingdom",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 60.91569999999999,
+                        "lng": 33.9165549
+                    },
+                    "southwest": {
+                        "lat": 34.5614,
+                        "lng": -8.8988999
+                    }
+                },
+                "location": {
+                    "lat": 55.378051,
+                    "lng": -3.435973
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 60.85484959999999,
+                        "lng": 1.762995
+                    },
+                    "southwest": {
+                        "lat": 49.8823322,
+                        "lng": -8.6498934
+                    }
+                }
+            },
+            "place_id": "ChIJqZHHQhE7WgIReiWIMkOg-MQ",
+            "types": ["country", "political"]
+        }
+    ],
+    "status": "OK"
+}

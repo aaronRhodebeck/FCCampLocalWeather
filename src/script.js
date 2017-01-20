@@ -99,6 +99,8 @@ var changeBackgroundPicture = function(conditions) {
         for (var i = 0; i < photos.length; i++) {
             if (photos[i].height_l < 700) {
                 $("body").css("backgroundImage", "url(" + photos[i].url_l + ")");
+                $("#attributionLink").attr("href", "https://flickr.com/photo.gne?" + photos[i].owner);
+                $("#photoAttribution").html(photos[i].title + "<br />More photos from this artist");
                 break;
             }
         }
